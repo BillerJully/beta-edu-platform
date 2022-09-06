@@ -1,2 +1,3 @@
 # beta-edu-platform
-Beta version of education platform for Ru Universites
+Beta version of education platform for Ru Universites and schools
+
